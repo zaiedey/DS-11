@@ -5,6 +5,7 @@
 # if the guess is too low, tell the user
 # if the guess is correct, tell the user and end the game
 # keep track of the number of guesses
+#what the dietrich.
 import random
 def guess_the_number():
     number = random.randint(1, 100)
